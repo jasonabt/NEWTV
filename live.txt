@@ -1,203 +1,78 @@
 央视1,#genre#
-CCTV2财经,http://222.169.85.8:9901/tsfile/live/0002_1.m3u8?key=txiptv
-中央3台,http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv
-中央赛事,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8?key=txiptv
-中央5台,http://222.169.85.8:9901/tsfile/live/0005_1.m3u8?key=txiptv
-中央6台,http://222.169.85.8:9901/tsfile/live/0006_1.m3u8?key=txiptv
-CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv
-中央8台,http://222.169.85.8:9901/tsfile/live/0008_1.m3u8?key=txiptv
-中央9台,http://222.169.85.8:9901/tsfile/live/0009_1.m3u8?key=txiptv
-中央10台,http://222.169.85.8:9901/tsfile/live/0010_1.m3u8?key=txiptv
-中央11台,http://222.169.85.8:9901/tsfile/live/0011_1.m3u8?key=txiptv
-中央12台,http://222.169.85.8:9901/tsfile/live/0012_1.m3u8?key=txiptv
-中央13台,http://222.169.85.8:9901/tsfile/live/0013_1.m3u8?key=txiptv
-中央14台,http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv
-中央15台,http://222.169.85.8:9901/tsfile/live/0015_1.m3u8?key=txiptv
-北京卫视,http://222.169.85.8:9901/tsfile/live/0017_1.m3u8?key=txiptv
-上海卫视,http://222.169.85.8:9901/tsfile/live/0018_1.m3u8?key=txiptv
-浙江卫视,http://222.169.85.8:9901/tsfile/live/0019_1.m3u8?key=txiptv
-江苏卫视,http://222.169.85.8:9901/tsfile/live/0127_1.m3u8?key=txiptv
-安徽卫视,http://222.169.85.8:9901/tsfile/live/0130_1.m3u8?key=txiptv
-江西卫视,http://222.169.85.8:9901/tsfile/live/0138_1.m3u8?key=txiptv
-山东卫视,http://222.169.85.8:9901/tsfile/live/0131_1.m3u8?key=txiptv
-河南卫视,http://222.169.85.8:9901/tsfile/live/0139_1.m3u8?key=txiptv
-湖南卫视,http://222.169.85.8:9901/tsfile/live/0128_1.m3u8?key=txiptv
-广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv
-深圳卫视,http://222.169.85.8:9901/tsfile/live/0126_1.m3u8?key=txiptv
-重庆卫视,http://222.169.85.8:9901/tsfile/live/0142_1.m3u8?key=txiptv
-四川卫视,http://222.169.85.8:9901/tsfile/live/0123_1.m3u8?key=txiptv
-天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv
-山西卫视,http://222.169.85.8:9901/tsfile/live/0118_1.m3u8?key=txiptv
-辽宁卫视,http://222.169.85.8:9901/tsfile/live/0121_1.m3u8?key=txiptv
-湖北卫视,http://222.169.85.8:9901/tsfile/live/0132_1.m3u8?key=txiptv
-广西卫视,http://222.169.85.8:9901/tsfile/live/0113_1.m3u8?key=txiptv
-贵州卫视,http://222.169.85.8:9901/tsfile/live/0120_1.m3u8?key=txiptv
-云南卫视,http://222.169.85.8:9901/tsfile/live/0119_1.m3u8?key=txiptv
-陕西卫视,http://222.169.85.8:9901/tsfile/live/0136_1.m3u8?key=txiptv
-宁夏卫视,http://222.169.85.8:9901/tsfile/live/0112_1.m3u8?key=txiptv
-新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8?key=txiptv
-吉林教育,http://222.169.85.8:9901/tsfile/live/1000_1.m3u8?key=txiptv
-
-
+CCTV-01 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226635/1.m3u8 
+CCTV-01 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8 
+CCTV-02 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8 
+CCTV-03 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8 
+CCTV-04 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8 
+CCTV-05 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8 
+CCTV-5+ ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8 
+CCTV-06 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8 
+CCTV-07 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1.m3u8 
+CCTV-08 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8 
+CCTV-09 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226651/1.m3u8 
+CCTV-09 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226657/1.m3u8 
+CCTV-10 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226708/1.m3u8 
+CCTV-11 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8 
+CCTV-12 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8 
+CCTV-12 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226748/1.m3u8 
+CCTV-13 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8 
+CCTV-14 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8 
+CCTV-14 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226663/1.m3u8
+ CCTV-16 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8 
+CCTV-17 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8 
+CCTV-17 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8
+北京卫视 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8 
+东方卫视 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226734/1.m3u8 
+浙江卫视 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226690/1.m3u8 
+江苏卫视 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8 
+湖南卫视 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8 
+深圳卫视 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226688/1.m3u8
 
 央视2,#genre#
-
-CCTV1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226737/1.m3u8
-CCTV2,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226739/1.m3u8
-CCTV3,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226720/1.m3u8
-CCTV4,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226725/1.m3u8
-CCTV5,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226731/1.m3u8
-CCTV5+,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226711/1.m3u8
-CCTV6,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226699/1.m3u8
-CCTV7,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226721/1.m3u8
-CCTV8,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226715/1.m3u8
-CCTV9,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226657/1.m3u8
-CCTV10,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226708/1.m3u8
-CCTV11,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226714/1.m3u8
-CCTV12,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226748/1.m3u8
-CCTV13,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226717/1.m3u8
-CCTV14,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226645/1.m3u8
-CCTV15,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226648/1.m3u8
-CCTV16,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226825/1.m3u8
-CCTV17,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226660/1.m3u8
-CGTN,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226666/1.m3u8
-CETV1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226673/1.m3u8
-CETV2,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226718/1.m3u8
-CETV3,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226722/1.m3u8
-CETV4,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226724/1.m3u8
-广东卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221227161/1.m3u8
-深圳卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226688/1.m3u8
-湖南卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226698/1.m3u8
-浙江卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226690/1.m3u8
-
+CCTV-01 ,http://go.bkpcp.top/mg/cctv1 
+CCTV-02 ,http://go.bkpcp.top/mg/cctv2 
+CCTV-03 ,http://go.bkpcp.top/mg/cctv3 
+CCTV-04 ,http://go.bkpcp.top/mg/cctv4 
+CCTV-05 ,http://go.bkpcp.top/mg/cctv5 
+CCTV-5+ ,http://go.bkpcp.top/mg/cctv5p 
+CCTV-06 ,http://go.bkpcp.top/mg/cctv6 
+CCTV-07 ,http://go.bkpcp.top/mg/cctv7 
+CCTV-08 ,http://go.bkpcp.top/mg/cctv8 
+CCTV-09 ,http://go.bkpcp.top/mg/cctv9 
+CCTV-10 ,http://go.bkpcp.top/mg/cctv10
+ CCTV-11 ,http://go.bkpcp.top/mg/cctv11 
+CCTV-12 ,http://go.bkpcp.top/mg/cctv12 
+CCTV-13 ,http://go.bkpcp.top/mg/cctv13 
+CCTV-14 ,http://go.bkpcp.top/mg/cctv14 
+CCTV-15 ,http://go.bkpcp.top/mg/cctv15 
+CCTV-16 ,http://go.bkpcp.top/mg/cctv16 
+CCTV-17 ,http://go.bkpcp.top/mg/cctv17
+北京卫视 ,http://go.bkpcp.top/mg/bjws 
+东方卫视 ,http://go.bkpcp.top/mg/dfws 
+浙江卫视 ,http://go.bkpcp.top/mg/zjws 
+江苏卫视 ,http://go.bkpcp.top/mg/jsws 
+湖南卫视 ,http://go.bkpcp.top/mg/hunws 
+广东卫视 ,http://go.bkpcp.top/mg/gdws 
+深圳卫视咪4k,http://go.bkpcp.top/mg/szws
 
 央视3,#genre#
-
-CCTV1,http://120.197.253.254:1818/udp/239.10.0.48:1025
-CCTV1,http://120.197.253.254:1818/udp/239.10.0.114:1025
-
-CCTV2,http://120.197.253.254:1818/udp/239.10.0.207:1025
-
-CCTV3,http://120.197.253.254:1818/udp/239.10.0.101:1025
-
-CCTV4,http://120.197.253.254:1818/udp/239.10.0.245:1025
-
-
-CCTV5,http://120.197.253.254:1818/udp/239.10.0.102:1025
-
-CCTV5+,http://120.197.253.254:1818/udp/239.10.0.213:1025
-CCTV6,http://120.197.253.254:1818/udp/239.10.0.103:1025
-
-CCTV7,http://120.197.253.254:1818/udp/239.10.0.208:1025
-
-CCTV8,http://120.197.253.254:1818/udp/239.10.0.104:1025
-
-CCTV9,http://120.197.253.254:1818/udp/239.10.0.209:1025
-
-CCTV10,http://120.197.253.254:1818/udp/239.10.0.210:1025
-
-CCTV11,http://120.197.253.254:1818/udp/239.11.0.24:1025
-
-CCTV12,http://120.197.253.254:1818/udp/239.10.0.211:1025
-
-CCTV13,http://120.197.253.254:1818/udp/239.10.0.198:1025
-
-CCTV14,http://120.197.253.254:1818/udp/239.10.0.212:1025
-
-
-
-CCTV15,http://120.197.253.254:1818/udp/239.11.0.25:1025
-
-CCTV16,http://120.197.253.254:1818/udp/239.11.0.126:1025
-CCTV17,http://120.197.253.254:1818/udp/239.10.0.244:1025
-
-
-
-
-
-
-
-
-
-
-广东卫视,http://120.197.253.254:1818/udp/239.10.0.45:1025
-
-广东体育,http://120.197.253.254:1818/udp/239.10.0.47:1025
-广东珠江,http://120.197.253.254:1818/udp/239.10.0.63:1025
-大湾区卫视,http://120.197.253.254:1818/udp/239.11.0.78:1025
-广东影视,http://120.197.253.254:1818/udp/239.11.0.79:1025
-广东民生,http://120.197.253.254:1818/udp/239.11.0.80:1025
-广东少儿,http://120.197.253.254:1818/udp/239.11.0.81:1025
-广东新闻,http://120.197.253.254:1818/udp/239.10.0.199:1025
-广东卫视,http://120.197.253.254:1818/udp/239.10.0.111:1025
-广东卫视,http://120.197.253.254:1818/udp/239.11.0.188:1025
-广东卫视.576,http://120.197.253.254:1818/udp/239.10.0.141:1025
-深圳卫视,http://120.197.253.254:1818/udp/239.10.0.132:1025
-
-
-广东珠江,http://120.197.253.254:1818/udp/239.10.0.62:1025
-
-
-
-广东体育,http://120.197.253.254:1818/udp/239.10.0.113:1025
-
-
-
-
-
-
-
-
-
-
-
-
-湖南卫视
-,http://120.197.253.254:1818/udp/239.10.0.115:1025
-浙江卫视
-,http://120.197.253.254:1818/udp/239.10.0.179:1025
-江苏卫视
-,http://120.197.253.254:1818/udp/239.10.0.180:1025
-北京卫视
-,http://120.197.253.254:1818/udp/239.10.0.131:1025
-深圳卫视
-,http://120.197.253.254:1818/udp/239.10.0.132:1025
-
-
-
-
-
-广东4K,http://120.197.253.254:1818/udp/239.10.0.74:1025
-广东4K,http://120.197.253.254:1818/udp/239.10.0.75:1025
-广东4K,http://120.197.253.254:1818/udp/239.10.0.76:1025
-广东卫视4K,http://120.197.253.254:1818/udp/239.10.0.64:1025
-广东卫视4K,http://120.197.253.254:1818/udp/239.10.0.86:1025
-广东卫视4K,http://120.197.253.254:1818/udp/239.10.0.42:1025
-广东卫视4K,http://120.197.253.254:1818/udp/239.11.0.129:1025
-广东卫视4K,http://120.197.253.254:1818/udp/239.11.0.194:1025
-广东卫视4K,http://120.197.253.254:1818/udp/239.11.0.93:1025
-深圳卫视4K,http://120.197.253.254:1818/udp/239.11.0.195:1025
-南国都市4K,http://120.197.253.254:1818/udp/239.11.0.170:1025
-CCTV4K,http://120.197.253.254:1818/udp/239.11.0.161:1025
-CCTV4K,http://120.197.253.254:1818/udp/239.11.0.162:1025
-咪咕体育4K-1,http://120.197.253.254:1818/udp/239.10.0.68:1025
-北京卫视4K,http://120.197.253.254:1818/udp/239.11.0.192:1025
-北京卫视4K,http://120.197.253.254:1818/udp/239.11.0.191:1025
-广东卫视.超清,http://120.197.253.254:1818/udp/239.10.0.45:1025
-广东珠江.超清,http://120.197.253.254:1818/udp/239.10.0.63:1025
-广东体育.超清,http://120.197.253.254:1818/udp/239.10.0.47:1025
-广东经济科教.超清,http://120.197.253.254:1818/udp/239.10.0.46:1025
-深圳卫视.超清,http://120.197.253.254:1818/udp/239.10.0.52:1025
-
-
-
-茂名综合,http://120.197.253.254:1818/udp/239.10.0.238:1025
-
-茂名文化生活,http://120.197.253.254:1818/udp/239.11.0.99:1025
-
-
-
-
-
-
-
+CCTV-01 ,http://113.67.99.161:5000/mgtv/608807420.m3u8 
+CCTV-02 ,http://113.67.99.161:5000/mgtv/631780532.m3u8 
+CCTV-03 ,http://113.67.99.161:5000/mgtv/624878271.m3u8 
+CCTV-04 ,http://113.67.99.161:5000/mgtv/631780421.m3u8 
+CCTV-05 ,http://113.67.99.161:5000/mgtv/641886683.m3u8 
+CCTV-5+ ,http://113.67.99.161:5000/mgtv/641886773.m3u8 
+CCTV-06 ,http://113.67.99.161:5000/mgtv/624878396.m3u8 
+CCTV-07 ,http://113.67.99.161:5000/mgtv/673168121.m3u8 
+CCTV-08 ,http://113.67.99.161:5000/mgtv/624878356.m3u8 
+CCTV-09 ,http://113.67.99.161:5000/mgtv/673168140.m3u8 
+CCTV-10 ,http://113.67.99.161:5000/mgtv/624878405.m3u8 
+CCTV-11 ,http://113.67.99.161:5000/mgtv/667987558.m3u8 
+CCTV-12 ,http://113.67.99.161:5000/mgtv/673168185.m3u8 
+CCTV-13 ,http://113.67.99.161:5000/mgtv/608807423.m3u8 
+CCTV-14 ,http://113.67.99.161:5000/mgtv/624878440.m3u8 
+CCTV-15 ,http://113.67.99.161:5000/mgtv/673168223.m3u8 
+CCTV-16 ,http://113.67.99.161:5000/nptv/cctv16.m3u8 
+CCTV-17 ,http://113.67.99.161:5000/mgtv/673168256.m3u8 
+CCTV-4k ,http://113.67.99.161:5000/nptv/cctv4k.m3u8 
+CCTV-8k ,http://113.67.99.161:5000/nptv/cctv8k.m3u8
