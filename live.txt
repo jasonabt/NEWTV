@@ -92,3 +92,45 @@ CCTV-17 ,http://go.bkpcp.top/mg/cctv17
 广东卫视4K ,http://go.bkpcp.top/mg/gdws 
 深圳卫视4k,http://go.bkpcp.top/mg/szws
 
+
+
+央视4,#genre#
+CCTV-01高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.138:11111 
+CCTV-02高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.26:7523 
+CCTV-03高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.121:7523 
+CCTV-04高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.52:7523 
+CCTV-05高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.187:7523 
+CCTV-5+高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.124:7523 
+CCTV-06高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.94:7523
+ CCTV-07高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.27:7523 
+CCTV-08高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.98:7523 
+CCTV-09高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.28:7523
+ CCTV-10高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.30:7523
+ CCTV-11高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.100:7523 
+CCTV-12高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.33:7523
+ CCTV-13高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.125:7523
+ CCTV-14高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.34:7523
+ CCTV-15高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.160:7523 
+CCTV-16高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.133:7523
+ CCTV-17高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.161:7523
+动作电影高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.189:7523 
+家庭影院高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.192:7523 
+
+无线翡翠高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.45:7523 
+无线明珠高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.139:7523
+ 广东珠江高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.106:7523 
+ 广东民生高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.49:7523 
+ 广东体育高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.102:7523 
+广东影视高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.5:7523 
+广东影视高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.64:7523 
+广东湾区高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.62:7523
+京卫视高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.150:7523 
+东方卫视高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.145:7523 
+浙江卫视高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.154:7523 
+江苏卫视高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.153:7523
+ 湖南卫视高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.199:7523 
+广东卫视高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.151:7523 
+深圳卫视高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.144:7523
+
+
+
