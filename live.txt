@@ -1,71 +1,51 @@
+央视,#genre#
+CCTV2财经,http://222.169.85.8:9901/tsfile/live/0002_1.m3u8?key=txiptv
+中央3台,http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv
+中央赛事,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8?key=txiptv
+中央5台,http://222.169.85.8:9901/tsfile/live/0005_1.m3u8?key=txiptv
+中央6台,http://222.169.85.8:9901/tsfile/live/0006_1.m3u8?key=txiptv
 
-央视2,#genre#
-CCTV1,http://live.sxrtv.com/iptv/cctv1.flv
-CCTV2,http://live.sxrtv.com/iptv/cctv2.flv
-CCTV3,http://live.sxrtv.com/iptv/cctv3.flv
-CCTV4,http://live.sxrtv.com/iptv/cctv4.flv
-CCTV5,http://live.sxrtv.com/iptv/cctv5.flv
-CCTV5+,http://live.sxrtv.com/iptv/cctv5p.flv
-CCTV6,http://live.sxrtv.com/iptv/cctv6.flv
-CCTV7,http://live.sxrtv.com/iptv/cctv7.flv
-CCTV8,http://live.sxrtv.com/iptv/cctv8.flv
-CCTV9,http://live.sxrtv.com/iptv/cctv9.flv
-CCTV10,http://live.sxrtv.com/iptv/cctv10.flv
-CCTV11,http://live.sxrtv.com/iptv/cctv11.flv
-CCTV12,http://live.sxrtv.com/iptv/cctv12.flv
-CCTV13,http://live.sxrtv.com/iptv/cctv13.flv
-CCTV14,http://live.sxrtv.com/iptv/cctv14.flv
-CCTV15,http://live.sxrtv.com/iptv/cctv15.flv
-CCTV16,http://live.sxrtv.com/iptv/cctv16.flv
-CCTV17,http://live.sxrtv.com/iptv/cctv17.flv
-CHC家庭影院,http://live.sxrtv.com/iptv/chcjtyy.flv
-CHC动作电影,http://live.sxrtv.com/iptv/chcdzdy.flv
-CHC影迷电影,http://live.sxrtv.com/iptv/chcymdy.flv
-凤凰中文,http://live.sxrtv.com/iptv/fhzw.flv
-凤凰资讯,http://live.sxrtv.com/iptv/fhzx.flv
-凤凰香港,http://live.sxrtv.com/iptv/fhhk.flv
-北京卫视,http://live.sxrtv.com/iptv/bjws.flv
-东方卫视,http://live.sxrtv.com/iptv/dfws.flv
-湖南卫视,http://live.sxrtv.com/iptv/hunws.flv
-浙江卫视,http://live.sxrtv.com/iptv/zjws.flv
-江苏卫视,http://live.sxrtv.com/iptv/jsws.flv
-广东卫视,http://live.sxrtv.com/iptv/gdws.flv
-深圳卫视,http://live.sxrtv.com/iptv/szws.flv
+中央8台,http://222.169.85.8:9901/tsfile/live/0008_1.m3u8?key=txiptv
+中央9台,http://222.169.85.8:9901/tsfile/live/0009_1.m3u8?key=txiptv
+中央10台,http://222.169.85.8:9901/tsfile/live/0010_1.m3u8?key=txiptv
+中央11台,http://222.169.85.8:9901/tsfile/live/0011_1.m3u8?key=txiptv
+中央12台,http://222.169.85.8:9901/tsfile/live/0012_1.m3u8?key=txiptv
+中央13台,http://222.169.85.8:9901/tsfile/live/0013_1.m3u8?key=txiptv
+中央14台,http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv
+中央15台,http://222.169.85.8:9901/tsfile/live/0015_1.m3u8?key=txiptv
+CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv
+北京卫视,http://222.169.85.8:9901/tsfile/live/0017_1.m3u8?key=txiptv
+上海卫视,http://222.169.85.8:9901/tsfile/live/0018_1.m3u8?key=txiptv
+浙江卫视,http://222.169.85.8:9901/tsfile/live/0019_1.m3u8?key=txiptv
+江苏卫视,http://222.169.85.8:9901/tsfile/live/0127_1.m3u8?key=txiptv
+安徽卫视,http://222.169.85.8:9901/tsfile/live/0130_1.m3u8?key=txiptv
+江西卫视,http://222.169.85.8:9901/tsfile/live/0138_1.m3u8?key=txiptv
+山东卫视,http://222.169.85.8:9901/tsfile/live/0131_1.m3u8?key=txiptv
+河南卫视,http://222.169.85.8:9901/tsfile/live/0139_1.m3u8?key=txiptv
+湖南卫视,http://222.169.85.8:9901/tsfile/live/0128_1.m3u8?key=txiptv
+广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv
+深圳卫视,http://222.169.85.8:9901/tsfile/live/0126_1.m3u8?key=txiptv
+重庆卫视,http://222.169.85.8:9901/tsfile/live/0142_1.m3u8?key=txiptv
+四川卫视,http://222.169.85.8:9901/tsfile/live/0123_1.m3u8?key=txiptv
+天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv
+山西卫视,http://222.169.85.8:9901/tsfile/live/0118_1.m3u8?key=txiptv
+辽宁卫视,http://222.169.85.8:9901/tsfile/live/0121_1.m3u8?key=txiptv
+湖北卫视,http://222.169.85.8:9901/tsfile/live/0132_1.m3u8?key=txiptv
+广西卫视,http://222.169.85.8:9901/tsfile/live/0113_1.m3u8?key=txiptv
+贵州卫视,http://222.169.85.8:9901/tsfile/live/0120_1.m3u8?key=txiptv
+云南卫视,http://222.169.85.8:9901/tsfile/live/0119_1.m3u8?key=txiptv
+陕西卫视,http://222.169.85.8:9901/tsfile/live/0136_1.m3u8?key=txiptv
+宁夏卫视,http://222.169.85.8:9901/tsfile/live/0112_1.m3u8?key=txiptv
+新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8?key=txiptv
+吉林教育,http://222.169.85.8:9901/tsfile/live/1000_1.m3u8?key=txiptv
 
 
 
 
-央视肇庆移动,#genre#
-CCTV-01 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226635/1.m3u8 
-CCTV-01 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8 
-CCTV-02 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8 
-CCTV-03 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8 
-CCTV-04 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8 
-CCTV-05 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8 
-CCTV-5+ ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8 
-CCTV-06 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8 
-CCTV-07 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1.m3u8 
-CCTV-08 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8 
-CCTV-09 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226651/1.m3u8 
-CCTV-09 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226657/1.m3u8 
-CCTV-10 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226708/1.m3u8 
-CCTV-11 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8 
-CCTV-12 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8 
-CCTV-12 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226748/1.m3u8 
-CCTV-13 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8 
-CCTV-14 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8 
-CCTV-14 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226663/1.m3u8
- CCTV-16 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8 
-CCTV-17 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8 
-CCTV-17 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8
-北京卫视 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8 
-东方卫视 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226734/1.m3u8 
-浙江卫视 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226690/1.m3u8 
-江苏卫视 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8 
-湖南卫视 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8 
-深圳卫视 ,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226688/1.m3u8
 
-央视3,#genre#
+
+
+央视1,#genre#
 CCTV-01 ,http://go.bkpcp.top/mg/cctv1 
 CCTV-02 ,http://go.bkpcp.top/mg/cctv2 
 CCTV-03 ,http://go.bkpcp.top/mg/cctv3 
@@ -94,7 +74,33 @@ CCTV-17 ,http://go.bkpcp.top/mg/cctv17
 
 
 
-央视4,#genre#
+
+
+
+央视2,#genre#
+CCTV-01频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv1 
+CCTV-02频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv2 
+CCTV-03频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv3 
+CCTV-04频特,https://smart.pendy.dpdns.org/Smart.php?id=Cctv4 
+CCTV-04频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv4 
+CCTV-05频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
+ CCTV 5+频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus 
+CCTV-06频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv6 
+CCTV-07频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv7 
+CCTV-08频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd 
+CCTV-09频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd 
+CCTV-10频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd 
+CCTV-11频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv11
+CCTV-12频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv12 
+CCTV-13频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv13 
+CCTV-14频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv14 
+CCTV-15频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv15 
+CGTN_英频特,https://smart.pendy.dpdns.org/Smart.php?id=CGTN 
+北京卫视频特,https://smart.pendy.dpdns.org/Smart.php?id=beijing 
+深圳卫视频特,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
+
+
+央视3,#genre#
 CCTV-01高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.138:11111 
 CCTV-02高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.26:7523 
 CCTV-03高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.121:7523 
@@ -116,21 +122,10 @@ CCTV-16高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.133:7523
 动作电影高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.189:7523 
 家庭影院高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.192:7523 
 
-无线翡翠高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.45:7523 
-无线明珠高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.139:7523
- 广东珠江高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.106:7523 
- 广东民生高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.49:7523 
- 广东体育高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.102:7523 
-广东影视高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.5:7523 
-广东影视高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.64:7523 
-广东湾区高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.62:7523
-京卫视高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.150:7523 
-东方卫视高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.145:7523 
-浙江卫视高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.154:7523 
-江苏卫视高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.153:7523
- 湖南卫视高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.199:7523 
-广东卫视高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.151:7523 
-深圳卫视高清,http://qjrhc.jydjd.top:2911/udp/225.1.101.144:7523
+
+
+
+
 
 
 
