@@ -1,67 +1,105 @@
-CCTV-1超清,http://121.34.150.149:8225/rtp/239.77.0.129:5146
--CCTV-1高清,http://121.34.150.149:8225/rtp/239.77.1.17:5146
--CCTV-1高清,http://121.34.150.149:8225/rtp/239.77.1.144:5146
--CCTV-1高清,http://121.34.150.149:8225/rtp/239.77.0.86:5146
--CCTV-2高清,http://121.34.150.149:8225/rtp/239.77.1.158:5146
--CCTV-2高清 (CAVS),http://121.34.150.149:8225/rtp/239.253.43.17:5146
--CCTV-2高清测试(CCTV -2财经高清),http://121.34.150.149:8225/rtp/239.77.0.137:5146
--CCTV-3超清 (CAVS),http://121.34.150.149:8225/rtp/239.77.0.175:5146
--CCTV-3高清,http://121.34.150.149:8225/rtp/239.77.0.169:5146
--CCTV-4高清,http://121.34.150.149:8225/rtp/239.77.1.163:5146
--CCTV-4高清,http://121.34.150.149:8225/rtp/239.77.1.166:5146
--CCTV-4高清,http://121.34.150.149:8225/rtp/239.77.0.78:5146
--CCTV-5超清 (CAVS),http://121.34.150.149:8225/rtp/239.77.0.177:5146
--CCTV-5高清,http://121.34.150.149:8225/rtp/239.77.0.170:5146
--CCTV-5+高清,http://121.34.150.149:8225/rtp/239.77.0.87:5146
--CCTV-5+高清,http://121.34.150.149:8225/rtp/239.77.1.31:5146
--CCTV-5+高清,http://121.34.150.149:8225/rtp/239.77.1.147:5146
--CCTV-6超清 (CAVS),http://121.34.150.149:8225/rtp/239.77.0.178:5146
--CCTV-6高清,http://121.34.150.149:8225/rtp/239.77.0.171:5146
--CCTV-7高清,http://121.34.150.149:8225/rtp/239.77.1.159:5146
--CCTV-7高清 (CAVS),http://121.34.150.149:8225/rtp/239.77.1.167:5146
--CCTV-7高清测试(CCTV -7军事农业高清),http://121.34.150.149:8225/rtp/239.77.0.138:5146
--CCTV-8超清 (CAVS),http://121.34.150.149:8225/rtp/239.77.0.181:5146
--CCTV-8高清,http://121.34.150.149:8225/rtp/239.77.0.172:5146
--CCTV-9高清,http://121.34.150.149:8225/rtp/239.77.1.160:5146
--CCTV-9高清 (CAVS),http://121.34.150.149:8225/rtp/239.77.1.168:5146
--CCTV-9高清测试,http://121.34.150.149:8225/rtp/239.77.0.135:5146
--CCTV-10高清,http://121.34.150.149:8225/rtp/239.77.1.113:5146
--CCTV-10高清 (CAVS),http://121.34.150.149:8225/rtp/239.77.1.169:5146
--CCTV-10高清测试(CCTV-10科教高清),http://121.34.150.149:8225/rtp/239.77.0.134:5146
--CCTV-11高清,http://121.34.150.149:8225/rtp/239.77.1.238:5146
--CCTV-12高清,http://121.34.150.149:8225/rtp/239.77.1.109:5146
--CCTV-12高清 (CAVS),http://121.34.150.149:8225/rtp/239.77.1.170:5146
--CCTV-12高清测试,http://121.34.150.149:8225/rtp/239.77.0.136:5146
--CCTV-13高清,http://121.34.150.149:8225/rtp/239.77.0.188:5146
--CCTV-13高清,http://121.34.150.149:8225/rtp/239.253.43.196:5146
--CCTV-14高清,http://121.34.150.149:8225/rtp/239.77.1.161:5146
--CCTV-14高清 (CAVS),http://121.34.150.149:8225/rtp/239.77.1.171:5146
--CCTV-14高清测试,http://121.34.150.149:8225/rtp/239.77.0.133:5146
--CCTV-15高清,http://121.34.150.149:8225/rtp/239.77.1.239:5146
--CCTV-16高清,http://121.34.150.149:8225/rtp/239.77.0.165:5146
--CCTV-16高清,http://121.34.150.149:8225/rtp/239.77.1.76:5146
--CCTV-16 4K,http://121.34.150.149:8225/rtp/239.77.1.98:5146
--CCTV-17高清,http://121.34.150.149:8225/rtp/239.77.1.121:5146
--CCTV-17农业高清,http://121.34.150.149:8225/rtp/239.77.0.198:5146
+央视,#genre#
+CCTV1高清,http://120.196.235.42:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2高清,http://120.196.235.42:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3高清,http://120.196.235.42:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
--广东卫视超清,http://121.34.150.149:8225/rtp/239.77.0.166:5146
+CCTV5高清,http://120.196.235.42:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+高清,http://120.196.235.42:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6高清,http://120.196.235.42:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7高清,http://120.196.235.42:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8高清,http://120.196.235.42:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9高清,http://120.196.235.42:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10高清,http://120.196.235.42:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 
--广东卫视高清,http://121.34.150.149:8225/rtp/239.77.1.19:5146
--广东卫视高清,http://121.34.150.149:8225/rtp/239.77.1.152:5146
--广东卫视高清,http://121.34.150.149:8225/rtp/239.77.0.84:5146
--广东珠江超清,http://121.34.150.149:8225/rtp/239.77.0.114:5146
--广东珠江高清,http://121.34.150.149:8225/rtp/239.77.0.1:5146
--广东新闻高清,http://121.34.150.149:8225/rtp/239.77.0.173:5146
--广东民生高清,http://121.34.150.149:8225/rtp/239.77.0.225:5146
--广东体育超清,http://121.34.150.149:8225/rtp/239.77.0.168:5146
--广东体育高清-测试,http://121.34.150.149:8225/rtp/239.77.0.112:5146
--湖南卫视超清,http://121.34.150.149:8225/rtp/239.77.0.127:5146
--湖南卫视高清,http://121.34.150.149:8225/rtp/239.77.1.5:5146
--湖南卫视高清 (CAVS),http://121.34.150.149:8225/rtp/239.77.1.129:5146
--湖南卫视高清,http://121.34.150.149:8225/rtp/239.77.0.88:5146
--浙江卫视超清 (CAVS),http://121.34.150.149:8225/rtp/239.77.0.125:5146
--浙江卫视高清,http://121.34.150.149:8225/rtp/239.77.1.33:5146
--浙江卫视高清 (CAVS),http://121.34.150.149:8225/rtp/239.77.1.150:5146
--浙江卫视高清,http://121.34.150.149:8225/rtp/239.77.0.89:5146
--深圳卫视超清,http://121.34.150.149:8225/rtp/239.77.0.130:5146
+
+CCTV12高清,http://120.196.235.42:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+CCTV14高清,http://120.196.235.42:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
+
+央视1,#genre#
+
+CCTV1综合,http://218.13.170.98:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2财经,http://218.13.170.98:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3综艺,http://218.13.170.98:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4中文国际,http://218.13.170.98:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5体育,http://218.13.170.98:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6电影,http://218.13.170.98:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7国防军事,http://218.13.170.98:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8电视剧,http://218.13.170.98:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9纪录,http://218.13.170.98:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10科教,http://218.13.170.98:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11戏曲,http://218.13.170.98:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12社会与法,http://218.13.170.98:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13新闻,http://218.13.170.98:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14少儿,http://218.13.170.98:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15音乐,http://218.13.170.98:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-17农业,http://218.13.170.98:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+
+央视2,#genre#
+CCTV-1,http://36.129.204.115:8243/hls/1001/index.m3u8
+CCTV-2,http://36.129.204.115:8243/hls/1002/index.m3u8
+CCTV-3,http://36.129.204.115:8243/hls/1003/index.m3u8
+CCTV-4,http://36.129.204.115:8243/hls/1004/index.m3u8
+CCTV-5,http://36.129.204.115:8243/hls/1005/index.m3u8
+CCTV-5+,http://36.129.204.115:8243/hls/1018/index.m3u8
+CCTV-6,http://36.129.204.115:8243/hls/1006/index.m3u8
+CCTV-7,http://36.129.204.115:8243/hls/1007/index.m3u8
+CCTV-8,http://36.129.204.115:8243/hls/1008/index.m3u8
+CCTV-9,http://36.129.204.115:8243/hls/1009/index.m3u8
+CCTV-10,http://36.129.204.115:8243/hls/1010/index.m3u8
+CCTV-11,http://36.129.204.115:8243/hls/1011/index.m3u8
+CCTV-12,http://36.129.204.115:8243/hls/1012/index.m3u8
+CCTV-13,http://36.129.204.115:8243/hls/1013/index.m3u8
+CCTV-14,http://36.129.204.115:8243/hls/1014/index.m3u8
+CCTV-15,http://36.129.204.115:8243/hls/1015/index.m3u8
+CCTV-16,http://36.129.204.115:8243/hls/1016/index.m3u8
+CCTV-17,http://36.129.204.115:8243/hls/1017/index.m3u8
+
+
+卫视,#genre#
+
+广东卫视,http://36.129.204.115:8243/hls/1031/index.m3u8
+东方卫视,http://36.129.204.115:8243/hls/1026/index.m3u8
+北京卫视,http://36.129.204.115:8243/hls/1020/index.m3u8
+江苏卫视,http://36.129.204.115:8243/hls/1024/index.m3u8
+浙江卫视,http://36.129.204.115:8243/hls/1023/index.m3u8
+湖南卫视,http://36.129.204.115:8243/hls/1022/index.m3u8
+深圳卫视,http://36.129.204.115:8243/hls/1049/index.m3u8
+湖南卫视高清,http://120.196.235.42:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视高清,http://120.196.235.42:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+港台,#genre#
+翡翠台，http://bxtv.3a.ink/api.php?id=fct
+鳳凰衛視中文台，http://bxtv.3a.ink/api.php?id=fhzw
+鳳凰衛視資訊台，http://bxtv.3a.ink/api.php?id=fhzx
+鳳凰衛視香港台，http://bxtv.3a.ink/api.php?id=fhhk
+
+美亞電影台，http://bxtv.3a.ink/api.php?id=meiya
+PopC，http://bxtv.3a.ink/api.php?id=popc
+CHC影迷电影,http://www.520345.xyz:8188/rtp/239.69.1.241:11088
+
+
+
+ 
+
+广东,#genre#
+
+广东体育，http://bxtv.3a.ink/api.php?id=gdty
+广东珠江，http://bxtv.3a.ink/api.php?id=gdzj
+广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-7.m3u8
+广东卫视高清,http://120.196.235.42:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江高清,http://120.196.235.42:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://120.196.235.42:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+广东公共,http://120.196.235.42:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育高清,http://120.196.235.42:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
+
+
